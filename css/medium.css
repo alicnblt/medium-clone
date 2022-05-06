@@ -1,0 +1,46 @@
+body {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size:  14px;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+.slider-h2 {
+    font-size: 106px;
+    font-weight: 400;
+    letter-spacing: -0.05em;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #080808;
+}
+
+.slider-h3 {
+    font-size: 24px;
+    color: #080808;
+    letter-spacing: -0.01em;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 161px; 
+    height: 20px;
+}
+
+h6 {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.small {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
